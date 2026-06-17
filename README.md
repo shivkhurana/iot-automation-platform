@@ -1,4 +1,4 @@
-# IoT Telemetry Platform (Sample)
+# IoT Telemetry Platform
 
 Spring Boot application to ingest telemetry packets and return cached statistics.
 
